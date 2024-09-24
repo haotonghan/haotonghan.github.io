@@ -58,9 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Haotong Han"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hi! My name is Haotong. I am currently a MS student at Stanford University and have recevied a BS degree from UCSB, both in mechanical enginnering. My concentration is in mechatronics, robotics, and smart product design. Throughout my education, I have participated in various enginnering projects, making me an experienced enginner, a creative innovator, and an active team player.
+"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
